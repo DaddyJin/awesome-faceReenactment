@@ -34,7 +34,7 @@
 
 ## Face Reenactment via Audio
 1. [2018-05 ECCV X2Face: A Network for Controlling Face Generation Using Images, Audio, and Pose Codes](http://link.springer.com/10.1007/978-3-030-01261-8_41)
-2. [2019    NIPS Face Reconstruction from Voice using Generative Adversarial Networks](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks.pdf)
+2. [2019 NIPS Face Reconstruction from Voice using Generative Adversarial Networks](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks.pdf)
 3. [2019-03 CVPR Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks](http://arxiv.org/abs/1903.10195)
 4. [2019-05 IJCAI Hierarchical Cross-Modal Talking Face Generationwith Dynamic Pixel-Wise Loss](http://arxiv.org/abs/1905.03820)
 5. [2019-06 CVPR Speech2Face: Learning the Face Behind a Voice](https://ieeexplore.ieee.org/document/8953196/)
