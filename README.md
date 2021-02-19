@@ -30,6 +30,7 @@
 27. [2020-10 arxiv LandmarkGAN: Synthesizing Faces from Landmarks](http://arxiv.org/abs/2011.00269)
 28. [2020-11 arxiv FACEGAN: Facial Attribute Controllable rEenactment GAN](http://arxiv.org/abs/2011.04439)
 29. [2020-11 arxiv One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](http://arxiv.org/abs/2011.15126)
+30. [2021-02 AAAI One-shot Face Reenactment Using Appearance Adaptive Normalization](https://arxiv.org/pdf/2102.03984.pdf)
 
 
 ## Face Reenactment via Audio
