@@ -28,7 +28,7 @@
 25. [2020-08 MM A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010)
 26. [2020-08 ECCV Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars](http://arxiv.org/abs/2008.10174)
 27. [2020-10 arxiv LandmarkGAN: Synthesizing Faces from Landmarks](http://arxiv.org/abs/2011.00269)
-28. [2020-11 arxiv FACEGAN: Facial Attribute Controllable rEenactment GAN](http://arxiv.org/abs/2011.04439)
+28. [2020-11 WACV FACEGAN: Facial Attribute Controllable rEenactment GAN](http://arxiv.org/abs/2011.04439)
 29. [2020-11 arxiv One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](http://arxiv.org/abs/2011.15126)
 30. [2021-02 AAAI One-shot Face Reenactment Using Appearance Adaptive Normalization](https://arxiv.org/pdf/2102.03984.pdf)
 
@@ -45,9 +45,13 @@
 9. [2020-04 ICASSP APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals](https://arxiv.org/abs/2004.14569v1)
 10. [2020-05 IJCAI Arbitrary Talking Face Generation via Attentional Audio-Visual Coherence Learning](http://arxiv.org/abs/1812.06589)
 11. [2020-08 MM A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010)
-12. [2020-10 arxiv APB2FaceV2: Real-Time Audio-Guided Multi-Face Reenactment](https://arxiv.org/abs/2010.13017v1)
+12. [2020-10 ICASSP APB2FaceV2: Real-Time Audio-Guided Multi-Face Reenactment](https://arxiv.org/abs/2010.13017v1)
 
-
+## Review that mentions Face Reenactment
+1. [2020-01 arxiv DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](http://arxiv.org/abs/2001.00179)
+2. [2020-02       A Review on Face Reenactment Techniques](https://ieeexplore.ieee.org/document/9102668)
+3. [2020-04 arxiv The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/abs/2004.11138)
+4. [2020-05 arxiv What comprises a good talking-head video generation?: A Survey and Benchmark](http://arxiv.org/abs/2005.03201)
 
 
 ## Contributions
