@@ -6,13 +6,14 @@
 - <a name="todo"></a> DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection (**arXiv 2020**) [[paper](https://arxiv.org/abs/2001.00179)]
 - <a name="todo"></a> A Review on Face Reenactment Techniques (**I4Tech 2020**) [[paper](https://ieeexplore.ieee.org/document/9102668)]
 - <a name="todo"></a> What comprises a good talking-head video generation?: A Survey and Benchmark (**arXiv 2020**) [[paper](https://arxiv.org/abs/2005.03201)] 
+- <a name="todo"></a> Deep Audio-Visual Learning: A Survey (**arXiv 2020**) [[paper](http://arxiv.org/abs/2001.04758)] 
 
 
 
 ## Papers
 
 ### 2021
-
+- <a name="todo"></a> Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)] 
 - <a name="todo"></a> Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.11116)] [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
 - <a name="todo"></a> Audio-Driven Emotional Video Portraits (**CVPR, 2021**) [[paper](http://arxiv.org/abs/2104.07452)] [[code](https://github.com/jixinya/EVP)]
 - <a name="todo"></a> Everything's Talkin': Pareidolia Face Reenactment (**CVPR, 2021**) [[paper](http://arxiv.org/abs/2104.03061)] 
@@ -68,6 +69,7 @@
 
 - <a name="todo"></a> GANimation: Anatomically-aware Facial Animation from a Single Image (**ECCV, 2018**) [[paper](http://arxiv.org/abs/1807.09251)] [[code](https://github.com/albertpumarola/GANimation)]
 - <a name="todo"></a> ReenactGAN: Learning to Reenact Faces via Boundary Transfer (**ECCV, 2018**) [[paper](http://arxiv.org/abs/1807.11079)] [[code](https://github.com/wywu/ReenactGAN)]
+- <a name="todo"></a> Lip movements generation at a glance (**ECCV, 2018**) [[paper](https://arxiv.org/abs/1803.10404)]
 - <a name="todo"></a> Deep Video Portraits (**SIGGRAPH, 2018**) [[paper](http://arxiv.org/abs/1805.11714)] 
 - <a name="todo"></a> X2Face: A Network for Controlling Face Generation Using Images, Audio, and Pose Codes (**ECCV, 2018**) [[paper](http://link.springer.com/10.1007/978-3-030-01261-8_41)] [[code](https://github.com/oawiles/X2Face)]
 
