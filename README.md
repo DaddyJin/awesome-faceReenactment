@@ -13,6 +13,9 @@
 ## Papers
 
 ### 2021
+- <a name="todo"></a> AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2103.11078)] 
+- <a name="todo"></a> PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2109.08379)] 
+- <a name="todo"></a> Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion (**IJCAI, 2021**) [[paper](http://arxiv.org/abs/2107.09293)] 
 - <a name="todo"></a> Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)] 
 - <a name="todo"></a> Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.11116)] [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
 - <a name="todo"></a> Audio-Driven Emotional Video Portraits (**CVPR, 2021**) [[paper](http://arxiv.org/abs/2104.07452)] [[code](https://github.com/jixinya/EVP)]
