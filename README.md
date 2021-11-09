@@ -13,6 +13,9 @@
 ## Papers
 
 ### 2021
+- <a name="todo"></a> 3D Talking Face with Personalized Pose Dynamics (**TVCG, 2021**) [[paper](https://personal.utdallas.edu/~xxg061000/TVCG2021.pdf)] 
+- <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
+- <a name="todo"></a> FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2108.07938)] 
 - <a name="todo"></a> AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2103.11078)] 
 - <a name="todo"></a> PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2109.08379)] 
 - <a name="todo"></a> Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion (**IJCAI, 2021**) [[paper](http://arxiv.org/abs/2107.09293)] 
