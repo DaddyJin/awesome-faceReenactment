@@ -67,7 +67,7 @@
 - <a name="todo"></a> Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss (**CVPR, 2019**) [[paper](http://arxiv.org/abs/1905.03820)] [[code](https://github.com/lelechen63/ATVGnet)]
 - <a name="todo"></a> Animating Arbitrary Objects via Deep Motion Transfer (**CVPR, 2019**) [[paper](https://arxiv.org/abs/1812.08861)] [[code](https://github.com/AliaksandrSiarohin/monkey-net)]
 - <a name="todo"></a> Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks (**ICASSP, 2019**) [[paper](http://arxiv.org/abs/1903.10195)] [[code](https://github.com/miqueltubau/Wav2Pix)]
-- <a name="todo"></a> Face Reconstruction from Voice using Generative Adversarial Networks (**NIPS, 2019**) [[paper](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks.pdf)] 
+- <a name="todo"></a> Face Reconstruction from Voice using Generative Adversarial Networks (**NIPS, 2019**) [[paper](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks.pdf)] [[code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)] 
 
 
 
