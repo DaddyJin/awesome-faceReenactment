@@ -15,6 +15,9 @@
 ### 2022
 - <a name="todo"></a> One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning (**AAAI, 2022**) [[paper](http://arxiv.org/abs/2112.02749)] 
 - <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
+- <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**Arxiv, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf
+)] 
+
 
 ### 2021
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
