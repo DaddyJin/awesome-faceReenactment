@@ -10,16 +10,75 @@
 
 
 
+## Face Reenactment Papers
+
+### 2022
+- <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
+- <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**Arxiv, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf)]
+- <a name="todo"></a> FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment (**PAMI, 2022**) [[paper](http://arxiv.org/abs/2202.12972)] 
+- <a name="todo"></a> StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN (**Arxiv, 2022**) [[paper](https://arxiv.org/abs/2203.04036)] 
+
+### 2021
+- <a name="todo"></a> PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2109.08379)] 
+- <a name="todo"></a> LI-Net: Large-Pose Identity-Preserving Face Reenactment Network (**ICME, 2021**) [[paper](https://arxiv.org/pdf/2104.02850)] 
+- <a name="todo"></a> One-shot Face Reenactment Using Appearance Adaptive Normalization (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2102.03984.pdf)] 
+
+### 2020
+- <a name="todo"></a> One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2011.15126)] 
+- <a name="todo"></a> FACEGAN: Facial Attribute Controllable rEenactment GAN (**WACV, 2020**) [[paper](http://arxiv.org/abs/2011.04439)] 
+- <a name="todo"></a> LandmarkGAN: Synthesizing Faces from Landmarks (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2011.00269)] 
+- <a name="todo"></a> Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars (**ECCV, 2020**) [[paper](http://arxiv.org/abs/2008.10174)] [[code](https://github.com/saic-violet/bilayer-model)]
+- <a name="todo"></a> Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks (**MM, 2020**) [[paper](http://arxiv.org/abs/2008.07783)] 
+- <a name="todo"></a> Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment (**CVPR, 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Learning_Identity-Invariant_Motion_Representations_for_Cross-ID_Face_Reenactment_CVPR_2020_paper.pdf)] 
+- <a name="todo"></a> ReenactNet: Real-time Full Head Reenactment (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2006.10500)] 
+- <a name="todo"></a> FReeNet: Multi-Identity Face Reenactment (**CVPR, 2020**) [[paper](http://arxiv.org/abs/1905.11805)] [[code](https://github.com/zhangzjn/FReeNet)]
+- <a name="todo"></a> FaR-GAN for One-Shot Face Reenactment (**CVPRW, 2020**) [[paper](http://arxiv.org/abs/2005.06402)] 
+- <a name="todo"></a> One-Shot Identity-Preserving Portrait Reenactment (**, 2020**) [[paper](http://arxiv.org/abs/2004.12452)] 
+- <a name="todo"></a> Neural Head Reenactment with Latent Pose Descriptors (**CVPR, 2020**) [[paper](http://arxiv.org/abs/2004.12000)] [[code](https://github.com/shrubb/latent-pose-reenactment)]
+- <a name="todo"></a> ActGAN: Flexible and Efficient One-shot Face Reenactment (**IWBF, 2020**) [[paper](http://arxiv.org/abs/2003.13840)] 
+- <a name="todo"></a> Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose (**AAAI, 2020**) [[paper](http://arxiv.org/abs/2003.12957)] 
+- <a name="todo"></a> First Order Motion Model for Image Animation (**NIPS, 2020**) [[paper](http://arxiv.org/abs/2003.00196)] [[code](https://github.com/AliaksandrSiarohin/first-order-model)]
+
+### 2019
+- <a name="todo"></a> FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis (**AAAI, 2019**) [[paper](http://arxiv.org/abs/1911.09224)] 
+- <a name="todo"></a> MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets (**AAAI, 2019**) [[paper](http://arxiv.org/abs/1911.08139)] 
+- <a name="todo"></a> Any-to-one Face Reenactment Based on Conditional Generative Adversarial Network (**APSIPA, 2019**) [[paper](https://ieeexplore.ieee.org/document/9023328/)] 
+- <a name="todo"></a> Make a Face: Towards Arbitrary High Fidelity Face Manipulation (**ICCV, 2019**) [[paper](http://arxiv.org/abs/1908.07191)] 
+- <a name="todo"></a> One-shot Face Reenactment (**BMVC, 2019**) [[paper](http://arxiv.org/abs/1908.03251)] [[code](https://github.com/bj80heyue/One_Shot_Face_Reenactment)]
+- <a name="todo"></a> Deferred neural rendering: image synthesis using neural textures (**TOG, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3306346.3323035)] 
+- <a name="todo"></a> Animating Arbitrary Objects via Deep Motion Transfer (**CVPR, 2019**) [[paper](https://arxiv.org/abs/1812.08861)] [[code](https://github.com/AliaksandrSiarohin/monkey-net)]
+- <a name="todo"></a> FSGAN: Subject Agnostic Face Swapping and Reenactment (**ICCV, 2019**) [[paper](http://arxiv.org/abs/1908.05932)] [[code](https://github.com/YuvalNirkin/fsgan)]
+
+### 2018
+- <a name="todo"></a> GANimation: Anatomically-aware Facial Animation from a Single Image (**ECCV, 2018**) [[paper](http://arxiv.org/abs/1807.09251)] [[code](https://github.com/albertpumarola/GANimation)]
+- <a name="todo"></a> ReenactGAN: Learning to Reenact Faces via Boundary Transfer (**ECCV, 2018**) [[paper](http://arxiv.org/abs/1807.11079)] [[code](https://github.com/wywu/ReenactGAN)]
+- <a name="todo"></a> Deep Video Portraits (**SIGGRAPH, 2018**) [[paper](http://arxiv.org/abs/1805.11714)] 
+- <a name="todo"></a> X2Face: A Network for Controlling Face Generation Using Images, Audio, and Pose Codes (**ECCV, 2018**) [[paper](http://link.springer.com/10.1007/978-3-030-01261-8_41)] [[code](https://github.com/oawiles/X2Face)]
+
+### 2016
+
+- <a name="todo"></a> Face2Face: Real-time Face Capture and Reenactment of RGB Videos (**CVPR, 2016**) [[paper](http://www.graphics.stanford.edu/~niessner/papers/2016/1facetoface/thies2016face.pdf)]
+
+
+
+
+
+
+
+
+
+
+
 ## Talking Face Generation Papers
 
 ### 2022
 - <a name="todo"></a> One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning (**AAAI, 2022**) [[paper](http://arxiv.org/abs/2112.02749)] 
-- <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
-- <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**Arxiv, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf
-)] 
+- <a name="todo"></a> Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels (**TMM, 2022**) [[paper](http://arxiv.org/abs/2201.05986)] 
+
 
 
 ### 2021
+- <a name="todo"></a> Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis (**MM, 2021**) [[paper](http://arxiv.org/abs/2111.00203)] [[code](https://github.com/wuhaozhe/style_avatar)]
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
 - <a name="todo"></a> 3D Talking Face with Personalized Pose Dynamics (**TVCG, 2021**) [[paper](https://personal.utdallas.edu/~xxg061000/TVCG2021.pdf)] 
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
@@ -58,59 +117,6 @@
 - <a name="todo"></a> Synthesizing Obama: learning lip sync from audio (**TOG, 2017**) [[paper](https://dl.acm.org/doi/10.1145/3072959.3073640)] 
 - <a name="todo"></a> You said that? (**BMVC, 2017**) [[paper](http://arxiv.org/abs/1705.02966)] [[code](https://github.com/joonson/yousaidthat)]
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Face Reenactment Papers
-
-### 2021
-- <a name="todo"></a> PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2109.08379)] 
-- <a name="todo"></a> LI-Net: Large-Pose Identity-Preserving Face Reenactment Network (**ICME, 2021**) [[paper](https://arxiv.org/pdf/2104.02850)] 
-- <a name="todo"></a> One-shot Face Reenactment Using Appearance Adaptive Normalization (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2102.03984.pdf)] 
-
-### 2020
-- <a name="todo"></a> One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2011.15126)] 
-- <a name="todo"></a> FACEGAN: Facial Attribute Controllable rEenactment GAN (**WACV, 2020**) [[paper](http://arxiv.org/abs/2011.04439)] 
-- <a name="todo"></a> LandmarkGAN: Synthesizing Faces from Landmarks (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2011.00269)] 
-- <a name="todo"></a> Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars (**ECCV, 2020**) [[paper](http://arxiv.org/abs/2008.10174)] [[code](https://github.com/saic-violet/bilayer-model)]
-- <a name="todo"></a> Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks (**MM, 2020**) [[paper](http://arxiv.org/abs/2008.07783)] 
-- <a name="todo"></a> Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment (**CVPR, 2020**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Learning_Identity-Invariant_Motion_Representations_for_Cross-ID_Face_Reenactment_CVPR_2020_paper.pdf)] 
-- <a name="todo"></a> ReenactNet: Real-time Full Head Reenactment (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2006.10500)] 
-- <a name="todo"></a> FReeNet: Multi-Identity Face Reenactment (**CVPR, 2020**) [[paper](http://arxiv.org/abs/1905.11805)] [[code](https://github.com/zhangzjn/FReeNet)]
-- <a name="todo"></a> FaR-GAN for One-Shot Face Reenactment (**CVPRW, 2020**) [[paper](http://arxiv.org/abs/2005.06402)] 
-- <a name="todo"></a> One-Shot Identity-Preserving Portrait Reenactment (**, 2020**) [[paper](http://arxiv.org/abs/2004.12452)] 
-- <a name="todo"></a> Neural Head Reenactment with Latent Pose Descriptors (**CVPR, 2020**) [[paper](http://arxiv.org/abs/2004.12000)] [[code](https://github.com/shrubb/latent-pose-reenactment)]
-- <a name="todo"></a> ActGAN: Flexible and Efficient One-shot Face Reenactment (**IWBF, 2020**) [[paper](http://arxiv.org/abs/2003.13840)] 
-- <a name="todo"></a> Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose (**AAAI, 2020**) [[paper](http://arxiv.org/abs/2003.12957)] 
-- <a name="todo"></a> First Order Motion Model for Image Animation (**NIPS, 2020**) [[paper](http://arxiv.org/abs/2003.00196)] [[code](https://github.com/AliaksandrSiarohin/first-order-model)]
-
-### 2019
-- <a name="todo"></a> FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis (**AAAI, 2019**) [[paper](http://arxiv.org/abs/1911.09224)] 
-- <a name="todo"></a> MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets (**AAAI, 2019**) [[paper](http://arxiv.org/abs/1911.08139)] 
-- <a name="todo"></a> Any-to-one Face Reenactment Based on Conditional Generative Adversarial Network (**APSIPA, 2019**) [[paper](https://ieeexplore.ieee.org/document/9023328/)] 
-- <a name="todo"></a> Make a Face: Towards Arbitrary High Fidelity Face Manipulation (**ICCV, 2019**) [[paper](http://arxiv.org/abs/1908.07191)] 
-- <a name="todo"></a> One-shot Face Reenactment (**BMVC, 2019**) [[paper](http://arxiv.org/abs/1908.03251)] [[code](https://github.com/bj80heyue/One_Shot_Face_Reenactment)]
-- <a name="todo"></a> Deferred neural rendering: image synthesis using neural textures (**TOG, 2019**) [[paper](https://dl.acm.org/doi/10.1145/3306346.3323035)] 
-- <a name="todo"></a> Animating Arbitrary Objects via Deep Motion Transfer (**CVPR, 2019**) [[paper](https://arxiv.org/abs/1812.08861)] [[code](https://github.com/AliaksandrSiarohin/monkey-net)]
-
-### 2018
-- <a name="todo"></a> GANimation: Anatomically-aware Facial Animation from a Single Image (**ECCV, 2018**) [[paper](http://arxiv.org/abs/1807.09251)] [[code](https://github.com/albertpumarola/GANimation)]
-- <a name="todo"></a> ReenactGAN: Learning to Reenact Faces via Boundary Transfer (**ECCV, 2018**) [[paper](http://arxiv.org/abs/1807.11079)] [[code](https://github.com/wywu/ReenactGAN)]
-- <a name="todo"></a> Deep Video Portraits (**SIGGRAPH, 2018**) [[paper](http://arxiv.org/abs/1805.11714)] 
-- <a name="todo"></a> X2Face: A Network for Controlling Face Generation Using Images, Audio, and Pose Codes (**ECCV, 2018**) [[paper](http://link.springer.com/10.1007/978-3-030-01261-8_41)] [[code](https://github.com/oawiles/X2Face)]
-
-### 2016
-
-- <a name="todo"></a> Face2Face: Real-time Face Capture and Reenactment of RGB Videos (**CVPR, 2016**) [[paper](http://www.graphics.stanford.edu/~niessner/papers/2016/1facetoface/thies2016face.pdf)]
 
 
 
