@@ -13,6 +13,7 @@
 ## Face Reenactment Papers
 
 ### 2022
+- <a name="todo"></a> Depth-Aware Generative Adversarial Network for Talking Head Video Generation (**CVPR, 2022**) [[paper](https://arxiv.org/abs/2203.06605)] 
 - <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
 - <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**Arxiv, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf)]
 - <a name="todo"></a> FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment (**PAMI, 2022**) [[paper](http://arxiv.org/abs/2202.12972)] 
@@ -71,12 +72,14 @@
 ## Talking Face Generation Papers
 
 ### 2022
+- <a name="todo"></a>  SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory (**AAAI, 2022**) [[paper](https://www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)] 
 - <a name="todo"></a> One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning (**AAAI, 2022**) [[paper](http://arxiv.org/abs/2112.02749)] 
 - <a name="todo"></a> Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels (**TMM, 2022**) [[paper](http://arxiv.org/abs/2201.05986)] 
 
 
 
 ### 2021
+- <a name="todo"></a> Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (**SIGGRAPH ASIA, 2021**) [[paper](http://arxiv.org/abs/2109.10595)] 
 - <a name="todo"></a> Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis (**MM, 2021**) [[paper](http://arxiv.org/abs/2111.00203)] [[code](https://github.com/wuhaozhe/style_avatar)]
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
 - <a name="todo"></a> 3D Talking Face with Personalized Pose Dynamics (**TVCG, 2021**) [[paper](https://personal.utdallas.edu/~xxg061000/TVCG2021.pdf)] 
