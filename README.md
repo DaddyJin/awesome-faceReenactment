@@ -1,5 +1,8 @@
 # Awesome Face Reenactment/Talking Face Generation
 
+Papers about FaceSwap in Deepfake are also summarized in the repo [
+awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
+
 ## Survey
 
 - <a name="todo"></a> The Creation and Detection of Deepfakes: A Survey (**arXiv 2020**) [[paper](https://arxiv.org/abs/2004.11138)] 
@@ -81,6 +84,7 @@
 ### 2021
 - <a name="todo"></a> Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (**SIGGRAPH ASIA, 2021**) [[paper](http://arxiv.org/abs/2109.10595)] 
 - <a name="todo"></a> Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis (**MM, 2021**) [[paper](http://arxiv.org/abs/2111.00203)] [[code](https://github.com/wuhaozhe/style_avatar)]
+- <a name="todo"></a> Towards Realistic Visual Dubbing with Heterogeneous Sources (**MM, 2021**) [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475318)]
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
 - <a name="todo"></a> 3D Talking Face with Personalized Pose Dynamics (**TVCG, 2021**) [[paper](https://personal.utdallas.edu/~xxg061000/TVCG2021.pdf)] 
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
