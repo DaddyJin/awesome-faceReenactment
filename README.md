@@ -115,6 +115,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> Hierarchical Cross-Modal Talking Face Generation with Dynamic Pixel-Wise Loss (**CVPR, 2019**) [[paper](http://arxiv.org/abs/1905.03820)] [[code](https://github.com/lelechen63/ATVGnet)]
 - <a name="todo"></a> Wav2Pix: Speech-conditioned Face Generation using Generative Adversarial Networks (**ICASSP, 2019**) [[paper](http://arxiv.org/abs/1903.10195)] [[code](https://github.com/miqueltubau/Wav2Pix)]
 - <a name="todo"></a> Face Reconstruction from Voice using Generative Adversarial Networks (**NIPS, 2019**) [[paper](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks.pdf)] 
+- <a name="todo"></a> Talking Face Generation by Conditional Recurrent Adversarial Network (**IJCAI, 2019**) [[paper]([https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks.pdf](https://arxiv.org/pdf/1804.04786.pdf))] [[code](https://github.com/susanqq/Talking_Face_Generation)]
 
 ### 2018
 - <a name="todo"></a> Lip movements generation at a glance (**ECCV, 2018**) [[paper](https://arxiv.org/abs/1803.10404)]
