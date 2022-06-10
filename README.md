@@ -88,8 +88,8 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
 - <a name="todo"></a> 3D Talking Face with Personalized Pose Dynamics (**TVCG, 2021**) [[paper](https://personal.utdallas.edu/~xxg061000/TVCG2021.pdf)] 
 - <a name="todo"></a> Talking Head Generation with Audio and Speech Related Facial Action Units (**BMVC, 2021**) [[paper](http://arxiv.org/abs/2110.09951)] 
-- <a name="todo"></a> FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2108.07938)] 
-- <a name="todo"></a> AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2103.11078)] 
+- <a name="todo"></a> FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2108.07938)] [[code](https://github.com/zhangchenxu528/FACIAL)]
+- <a name="todo"></a> AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2103.11078)] [[code](https://github.com/YudongGuo/AD-NeRF)]
 - <a name="todo"></a> Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion (**IJCAI, 2021**) [[paper](http://arxiv.org/abs/2107.09293)] 
 - <a name="todo"></a> Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)] 
 - <a name="todo"></a> Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (**CVPR, 2021**) [[paper](https://arxiv.org/abs/2104.11116)] [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
@@ -98,6 +98,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> APB2FaceV2: Real-Time Audio-Guided Multi-Face Reenactment (**ICASSP, 2021**) [[paper](https://arxiv.org/abs/2010.13017v1)] [[code](https://github.com/zhangzjn/APB2FaceV2)]
 
 ### 2020
+- <a name="todo"></a> Talking-head Generation with Rhythmic Head Motion (**ECCV, 2020**) [[paper](https://arxiv.org/abs/2007.08547)] [[code]([https://github.com/uniBruce/Mead](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion))]
 - <a name="todo"></a> MEAD: A Large-Scale Audio-Visual Dataset for Emotional Talking-Face Generation (**ECCV, 2020**) [[paper](http://link.springer.com/10.1007/978-3-030-58589-1_42)] [[code](https://github.com/uniBruce/Mead)]
 - <a name="todo"></a> A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild (**MM, 2020**) [[paper](http://arxiv.org/abs/2008.10010)] [[code](https://github.com/Rudrabha/Wav2Lip)]
 - <a name="todo"></a> Arbitrary Talking Face Generation via Attentional Audio-Visual Coherence Learning (**IJCAI, 2020**) [[paper](http://arxiv.org/abs/1812.06589)] 
