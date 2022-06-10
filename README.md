@@ -105,6 +105,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals (**ICASSP, 2020**) [[paper](https://arxiv.org/abs/2004.14569v1)] [[code](https://github.com/zhangzjn/APB2Face)]
 - <a name="todo"></a> MakeItTalk: Speaker-Aware Talking Head Animation (**SIGGRAPH ASIA, 2020**) [[paper](http://arxiv.org/abs/2004.12992)] [[code](https://github.com/yzhou359/MakeItTalk)]
 - <a name="todo"></a> Everybody’s Talkin’: Let Me Talk as You Want (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2001.05201)] 
+- <a name="todo"></a> Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose (**arXiv, 2020**) [[paper]([http://arxiv.org/abs/2001.05201](http://arxiv.org/abs/2002.10137))]  [[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
 
 
 ### 2019
