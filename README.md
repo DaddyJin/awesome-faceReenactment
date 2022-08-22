@@ -16,6 +16,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Face Reenactment Papers
 
 ### 2022
+- <a name="todo"></a> Dual-Generator Face Reenactment (**CVPR, 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.pdf)] 
 - <a name="todo"></a> Depth-Aware Generative Adversarial Network for Talking Head Video Generation (**CVPR, 2022**) [[paper](https://arxiv.org/abs/2203.06605)] 
 - <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
 - <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**Arxiv, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf)]
@@ -75,6 +76,10 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Talking Face Generation Papers
 
 ### 2022
+- <a name="todo"></a>  Expressive Talking Head Generation With Granular Audio-Visual Control (**CVPR, 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf)] 
+- <a name="todo"></a>  EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model (**SIGGRAPH, 2022**) [[paper](http://arxiv.org/abs/2205.15278)] 
+- <a name="todo"></a>  Emotion-Controllable Generalized Talking Face Generation (**IJCAI, 2022**) [[paper](http://arxiv.org/abs/2205.01155)] 
+- <a name="todo"></a>  StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN (**ECCV, 2022**) [[paper](https://arxiv.org/pdf/2203.04036.pdf)] 
 - <a name="todo"></a>  SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory (**AAAI, 2022**) [[paper](https://www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)] 
 - <a name="todo"></a> One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning (**AAAI, 2022**) [[paper](http://arxiv.org/abs/2112.02749)] 
 - <a name="todo"></a> Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels (**TMM, 2022**) [[paper](http://arxiv.org/abs/2201.05986)] 
