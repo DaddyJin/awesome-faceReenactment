@@ -15,7 +15,12 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 
 ## Face Reenactment Papers
 
+### 2023
+- <a name="todo"></a> Audio-Visual Face Reenactment (**WACV, 2023**) [[paper](https://arxiv.org/abs/2210.02755)] [[webpage](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)] [[code](https://github.com/mdv3101/AVFR-Gan/)]
+
+
 ### 2022
+- <a name="todo"></a> Compressing Video Calls using Synthetic Talking Heads (**BMVC, 2022**) [[paper](https://arxiv.org/abs/2210.03692)] [[webpage](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression#gestures)] 
 - <a name="todo"></a> Dual-Generator Face Reenactment (**CVPR, 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.pdf)] 
 - <a name="todo"></a> Depth-Aware Generative Adversarial Network for Talking Head Video Generation (**CVPR, 2022**) [[paper](https://arxiv.org/abs/2203.06605)] 
 - <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
