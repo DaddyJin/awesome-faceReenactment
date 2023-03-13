@@ -95,7 +95,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> Dual-Generator Face Reenactment (**CVPR, 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.pdf)] 
 - <a name="todo"></a> Depth-Aware Generative Adversarial Network for Talking Head Video Generation (**CVPR, 2022**) [[paper](https://arxiv.org/abs/2203.06605)] 
 - <a name="todo"></a> Latent Image Animator: Learning to Animate Images via Latent Space Navigation (**ICLR, 2022**) [[paper](https://openreview.net/pdf?id=7r6kDq0mK_)] 
-- <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**Arxiv, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf)]
+- <a name="todo"></a> Finding Directions in GAN’s Latent Space for Neural Face Reenactment (**BMVC, 2022**) [[paper](https://arxiv.org/pdf/2202.00046.pdf)][[code](https://github.com/StelaBou/stylegan_directions_face_reenactment)]
 - <a name="todo"></a> FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment (**PAMI, 2022**) [[paper](http://arxiv.org/abs/2202.12972)] 
 
 ### 2021
