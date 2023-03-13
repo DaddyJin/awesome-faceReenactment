@@ -28,7 +28,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 
 
 ### 2022
-- <a name="todo"></a>  VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild (**SIGGRAPH ASIA, 2022**) [[paper](https://arxiv.org/abs/2211.14758)] 
+- <a name="todo"></a>  VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild (**SIGGRAPH ASIA, 2022**) [[paper](https://arxiv.org/abs/2211.14758)] [[code]](https://github.com/vinthony/video-retalking)
 - <a name="todo"></a>  Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis (**ECCV, 2022**) [[paper](https://github.com/sstzal/DFRF/blob/show_page/images/DFRF_eccv2022.pdf)] [[code](https://github.com/sstzal/DFRF)]
 - <a name="todo"></a> Compressing Video Calls using Synthetic Talking Heads (**BMVC, 2022**) [[paper](https://arxiv.org/abs/2210.03692)] [[webpage](https://cvit.iiit.ac.in/research/projects/cvit-projects/talking-video-compression)] 
 - <a name="todo"></a>  Expressive Talking Head Generation With Granular Audio-Visual Control (**CVPR, 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.pdf)] 
