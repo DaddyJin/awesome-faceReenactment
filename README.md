@@ -17,16 +17,17 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 
 
 
-
-
 ## Talking Face Generation Papers
 
 ### 2023
-- <a name="todo"></a> MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2212.08062)] [[webpage](https://meta-portrait.github.io/)] [[code](https://github.com/Meta-Portrait/MetaPortrait)]
+- <a name="todo"></a> SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2211.12194)] [[webpage](https://sadtalker.github.io/)] [[code](https://github.com/Winfredy/SadTalker)]
+- <a name="todo"></a> DPE: Disentanglement of Pose and Expression for General Video Portrait Editing (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2301.06281)] [[webpage](https://carlyx.github.io/DPE/)] [[code](https://github.com/Carlyx/DPE)]
 - <a name="todo"></a>  StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2301.01081.pdf)] [[code](https://github.com/FuxiVirtualHuman/styletalk)]
 - <a name="todo"></a>  DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video (**AAAI, 2023**) [[paper](https://fuxivirtualhuman.github.io/pdf/AAAI2023_FaceDubbing.pdf)] [[code](https://github.com/MRzzm/DINet)]
 - <a name="todo"></a> Audio-Visual Face Reenactment (**WACV, 2023**) [[paper](https://arxiv.org/abs/2210.02755)] [[webpage](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)] [[code](https://github.com/mdv3101/AVFR-Gan/)]
 - <a name="todo"></a> Emotionally Enhanced Talking Face Generation (**Arxiv, 2023**) [[paper](https://arxiv.org/abs/2303.11548)] [[webpage](https://midas.iiitd.edu.in/emo/)] [[code](https://github.com/sahilg06/EmoGen)]
+- <a name="todo"></a> Compact Temporal Trajectory Representation for
+Talking Face Video Compression (**TCSVT, 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10109861/)] 
 
 
 ### 2022
@@ -40,6 +41,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a>  SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory (**AAAI, 2022**) [[paper](https://www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)] 
 - <a name="todo"></a> One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning (**AAAI, 2022**) [[paper](http://arxiv.org/abs/2112.02749)] 
 - <a name="todo"></a> Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels (**TMM, 2022**) [[paper](http://arxiv.org/abs/2201.05986)] 
+- <a name="todo"></a> Audio-driven Dubbing for User Generated Contents via Style-aware Semi-parametric Synthesis (**TCSVT, 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9903679/)] 
 
 
 
@@ -68,6 +70,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> MakeItTalk: Speaker-Aware Talking Head Animation (**SIGGRAPH ASIA, 2020**) [[paper](http://arxiv.org/abs/2004.12992)] [[code](https://github.com/yzhou359/MakeItTalk)]
 - <a name="todo"></a> Everybody’s Talkin’: Let Me Talk as You Want (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2001.05201)] 
 - <a name="todo"></a> Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose (**arXiv, 2020**) [[paper]([http://arxiv.org/abs/2001.05201](http://arxiv.org/abs/2002.10137))]  [[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
+- <a name="todo"></a> Multimodal inputs driven talking face generation with spatial–temporal dependency (**TCSVT, 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/8995571/)] 
 
 
 ### 2019
@@ -90,6 +93,9 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 
 ## Face Reenactment Papers
 
+### 2023
+- <a name="todo"></a> MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2212.08062)] [[webpage](https://meta-portrait.github.io/)] [[code](https://github.com/Meta-Portrait/MetaPortrait)]
+- <a name="todo"></a> HR-Net: a landmark based high realistic face reenactment network (**TCSVT, 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10103929/)]
 
 
 
@@ -104,6 +110,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a> PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering (**ICCV, 2021**) [[paper](http://arxiv.org/abs/2109.08379)] 
 - <a name="todo"></a> LI-Net: Large-Pose Identity-Preserving Face Reenactment Network (**ICME, 2021**) [[paper](https://arxiv.org/pdf/2104.02850)] 
 - <a name="todo"></a> One-shot Face Reenactment Using Appearance Adaptive Normalization (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2102.03984.pdf)] 
+- <a name="todo"></a> A unified framework for high fidelity face swap and expression reenactment (**TCSVT, 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9517088/)]
 
 ### 2020
 - <a name="todo"></a> One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (**arXiv, 2020**) [[paper](http://arxiv.org/abs/2011.15126)] 
