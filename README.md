@@ -25,6 +25,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 - <a name="todo"></a>  StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2301.01081.pdf)] [[code](https://github.com/FuxiVirtualHuman/styletalk)]
 - <a name="todo"></a>  DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video (**AAAI, 2023**) [[paper](https://fuxivirtualhuman.github.io/pdf/AAAI2023_FaceDubbing.pdf)] [[code](https://github.com/MRzzm/DINet)]
 - <a name="todo"></a> Audio-Visual Face Reenactment (**WACV, 2023**) [[paper](https://arxiv.org/abs/2210.02755)] [[webpage](http://cvit.iiit.ac.in/research/projects/cvit-projects/avfr)] [[code](https://github.com/mdv3101/AVFR-Gan/)]
+- <a name="todo"></a> Emotionally Enhanced Talking Face Generation (**Arxiv, 2023**) [[paper](https://arxiv.org/abs/2303.11548)] [[webpage](https://midas.iiitd.edu.in/emo/)] [[code](https://github.com/sahilg06/EmoGen)]
 
 
 ### 2022
