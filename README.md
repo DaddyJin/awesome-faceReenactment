@@ -20,6 +20,13 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Talking Face Generation Papers
 
 ### 2023
+- <a name="todo"></a> Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2211.14506)] [[webpage](https://dorniwang.github.io/PD-FGC/)] 
+- <a name="todo"></a> One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2304.05097)] [[webpage](https://waytron.net/hidenerf/)] 
+- <a name="todo"></a> Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert (**CVPR, 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)] 
+- <a name="todo"></a> LipFormer: High-Fidelity and Generalizable Talking Face Generation With a Pre-Learned Facial Codebook (**CVPR, 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.pdf)] 
+- <a name="todo"></a> High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2305.02572)] 
+- <a name="todo"></a> OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2303.14662)]  [[code](https://github.com/theEricMa/OTAvatar)]
+- <a name="todo"></a> IP_LAP: Identity-Preserving Talking Face Generation with Landmark and Appearance Priors  (**CVPR, 2023**)  [[code](https://github.com/Weizhi-Zhong/IP_LAP)]
 - <a name="todo"></a> SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2211.12194)] [[webpage](https://sadtalker.github.io/)] [[code](https://github.com/Winfredy/SadTalker)]
 - <a name="todo"></a> DPE: Disentanglement of Pose and Expression for General Video Portrait Editing (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2301.06281)] [[webpage](https://carlyx.github.io/DPE/)] [[code](https://github.com/Carlyx/DPE)]
 - <a name="todo"></a>  StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2301.01081.pdf)] [[code](https://github.com/FuxiVirtualHuman/styletalk)]
@@ -94,6 +101,7 @@ Talking Face Video Compression (**TCSVT, 2023**) [[paper](https://ieeexplore.iee
 ## Face Reenactment Papers
 
 ### 2023
+- <a name="todo"></a> High-Fidelity and Freely Controllable Talking Head Video Generation (**CVPR, 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf)]
 - <a name="todo"></a> MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2212.08062)] [[webpage](https://meta-portrait.github.io/)] [[code](https://github.com/Meta-Portrait/MetaPortrait)]
 - <a name="todo"></a> HR-Net: a landmark based high realistic face reenactment network (**TCSVT, 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10103929/)]
 
