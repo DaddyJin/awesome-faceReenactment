@@ -20,6 +20,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Talking Face Generation Papers
 
 ### 2023
+- <a name="todo"></a> Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors (**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Talking_Head_Generation_with_Probabilistic_Audio-to-Visual_Diffusion_Priors_ICCV_2023_paper.pdf)] 
 - <a name="todo"></a> Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2211.14506)] [[webpage](https://dorniwang.github.io/PD-FGC/)] 
 - <a name="todo"></a> One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2304.05097)] [[webpage](https://waytron.net/hidenerf/)] 
 - <a name="todo"></a> Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert (**CVPR, 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)] 
@@ -99,6 +100,9 @@ Talking Face Video Compression (**TCSVT, 2023**) [[paper](https://ieeexplore.iee
 
 
 ## Face Reenactment Papers
+
+### 2024
+- <a name="todo"></a> 3D-Aware Talking-Head Video Motion Transfer (**WACV, 2024**) [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ni_3D-Aware_Talking-Head_Video_Motion_Transfer_WACV_2024_paper.pdf)]
 
 ### 2023
 - <a name="todo"></a> High-Fidelity and Freely Controllable Talking Head Video Generation (**CVPR, 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf)]
