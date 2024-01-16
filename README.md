@@ -20,6 +20,8 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Talking Face Generation Papers
 
 ### 2023
+- <a name="todo"></a> EMMN: Emotional Motion Memory Network for Audio-driven
+Emotional Talking Face Generation(**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tan_EMMN_Emotional_Motion_Memory_Network_for_Audio-driven_Emotional_Talking_Face_ICCV_2023_paper.html)]
 - <a name="todo"></a> Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation (**ICCV, 2023**) [[paper](http://arxiv.org/abs/2309.04946)] [[code](https://github.com/yuangan/EAT_code)]
 - <a name="todo"></a> Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors (**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Talking_Head_Generation_with_Probabilistic_Audio-to-Visual_Diffusion_Priors_ICCV_2023_paper.pdf)] 
 - <a name="todo"></a> Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (**CVPR, 2023**) [[paper](https://arxiv.org/abs/2211.14506)] [[webpage](https://dorniwang.github.io/PD-FGC/)] 
