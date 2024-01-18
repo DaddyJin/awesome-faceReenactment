@@ -20,6 +20,8 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Talking Face Generation Papers
 
 ### 2023
+- <a name="todo"></a> Efficient Region-Aware Neural Radiance Fields for High-Fidelity
+Talking Portrait Synthesis (**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.pdf)]
 - <a name="todo"></a> High-fidelity Generalized Emotional Talking Face Generation
 with Multi-modal Emotion Space Learning (**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.pdf)]
 - <a name="todo"></a> EMMN: Emotional Motion Memory Network for Audio-driven
