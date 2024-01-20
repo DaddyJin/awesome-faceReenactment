@@ -20,6 +20,7 @@ awesome-faceSwap](https://github.com/DaddyJin/awesome-faceSwap).
 ## Talking Face Generation Papers
 
 ### 2023
+- <a name="todo"></a> MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions (**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_MODA_Mapping-Once_Audio-driven_Portrait_Animation_with_Dual_Attentions_ICCV_2023_paper.pdf)]  [[project](https://liuyunfei.net/projects/iccv23-moda/)]
 - <a name="todo"></a> Efficient Region-Aware Neural Radiance Fields for High-Fidelity
 Talking Portrait Synthesis (**ICCV, 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.pdf)]
 - <a name="todo"></a> High-fidelity Generalized Emotional Talking Face Generation
